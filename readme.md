@@ -1,4 +1,3 @@
-### 1. 你的新 README.md 内容
 
 
 # SmartInvest-Agent: 基于多智能体协作的智能投研系统
@@ -55,7 +54,7 @@ SmartInvest-Agent/
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/SmartInvest-Agent.git
+git clone https://github.com/zuozihe224/SmartInvest-Agent.git
 cd SmartInvest-Agent
 
 # 创建虚拟环境
@@ -90,9 +89,6 @@ python -m streamlit run main.py
 
 启动后，浏览器将自动打开 `http://localhost:8501`。
 
-## 📝 运行截图
-
-*(此处建议你在本地跑通后，截一张图，放在这里，文件名为 screenshot.png)*
 
 ## 🔮 未来规划
 
